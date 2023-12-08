@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Font ss:FontName="Calibri" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+ <Style ss:ID="s1">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="0"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="1">
+  <Table>
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">\n 1</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">ф2</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">ф3</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="String">ф4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s1"><Data ss:Type="Number">34</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>
